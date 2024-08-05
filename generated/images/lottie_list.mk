@@ -1,0 +1,1 @@
+GEN_CSRCS += lottie_yu.c

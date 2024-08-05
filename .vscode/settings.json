@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "random": "c",
+        "chrono": "c",
+        "custom_event.h": "c",
+        "time.h": "c",
+        "limits": "c",
+        "rlottie_capi.h": "c",
+        "gui_guider.h": "c",
+        "custom.h": "c",
+        "clock_setting.h": "c",
+        "lv_rlottie.h": "c",
+        "widgets_init.h": "c",
+        "events_init.h": "c"
+    }
+}

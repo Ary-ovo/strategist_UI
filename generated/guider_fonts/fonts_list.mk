@@ -1,0 +1,1 @@
+GEN_CSRCS += lv_font_montserratMedium_12.c lv_font_youshebiaotihei_80.c lv_font_montserratMedium_16.c lv_font_youshebiaotihei_40.c lv_font_punk_45.c lv_font_punk_30.c lv_font_youshebiaotihei_30.c
